@@ -38,7 +38,7 @@ Please join me on my journey!
   <a href="https://discordapp.com/users/436475719124647956">
     <img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://twitter.com/ASleepingLlama">
+  <a href="https://twitter.com/ShanBLlama">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC9VVTsr9MI7XtC_3FRnPRcA">
